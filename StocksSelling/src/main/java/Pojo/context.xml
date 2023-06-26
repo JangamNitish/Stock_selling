@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource
+    name="jdbc/maxmin"
+    auth="maxmin"
+    type="javax.sql.DataSource"
+    maxIdle="30"
+    driverClassName="com.mysql.cj.jdbc.Driver"
+    url="jdbc:mysql://localhost:3306/jdbc/maxmin"
+    username="root"
+    password="Nitish@1314"/>
+</Context>
